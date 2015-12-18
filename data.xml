@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Name>Pas cu pas</Name>
+    <Autor>Klaus Iohannis</Autor>
+  </Book>
+  <Book>
+    <Name>Pi - the Number</Name>
+    <Autor>John Evans</Autor>
+  </Book>
+  <Book>
+    <Name>In pielea goala</Name>
+    <Autor>David Sedaris</Autor>
+  </Book>
+  <Book>
+    <Name>Carnete</Name>
+    <Autor>Albert Camus</Autor>
+  </Book>
+  <Book>
+    <Name>A afla si a intelege</Name>
+    <Autor>Tudorel Urian</Autor>
+  </Book>
+  <Book>
+    <Name>A avea sau a fi?</Name>
+    <Autor>Octavian Cocos</Autor>
+  </Book>
+  <Book>
+    <Name>A Christmas Carol</Name>
+    <Autor>Charles Dickens</Autor>
+  </Book>
+  <Book>
+    <Name>A day in Cape Town</Name>
+    <Autor>Edel</Autor>
+  </Book>
+</ArrayOfBook>

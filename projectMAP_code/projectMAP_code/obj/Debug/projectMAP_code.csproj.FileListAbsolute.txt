@@ -1,0 +1,6 @@
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\projectMAP_code\projectMAP_code\bin\Debug\projectMAP_code.exe.config
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\projectMAP_code\projectMAP_code\bin\Debug\projectMAP_code.exe
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\projectMAP_code\projectMAP_code\bin\Debug\projectMAP_code.pdb
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\projectMAP_code\projectMAP_code\obj\Debug\projectMAP_code.exe
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\projectMAP_code\projectMAP_code\obj\Debug\projectMAP_code.pdb
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\projectMAP_code\projectMAP_code\obj\Debug\projectMAP_code.csprojResolveAssemblyReference.cache
